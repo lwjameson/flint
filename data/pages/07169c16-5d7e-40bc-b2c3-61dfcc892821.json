@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-01-16T03:12:59.517Z",
+  "created_by": "saamturner",
+  "title": "Oscar Wilde Communicates",
+  "slug": "oscar-wilde-communicates",
+  "updated_at": "2025-01-16T03:12:59.517Z",
+  "updated_by": "saamturner",
+  "parent": "4d6f4f73-4489-427a-aa89-a9f8db19ce59",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "7feadec5-ea45-4bb4-b49e-52d442e35733"
+  }
+}
