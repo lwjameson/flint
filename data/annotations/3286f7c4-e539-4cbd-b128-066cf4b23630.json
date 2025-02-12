@@ -1649,6 +1649,10 @@
         {
           "tag": "Arthur Conan Doyle",
           "category": "Speaker"
+        },
+        {
+          "tag": "Truth",
+          "category": "Topic"
         }
       ],
       "uuid": "025ff346-15b1-4af7-bda8-cbc5d62271f7"
