@@ -830,7 +830,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Coughing/Banging"
+              "text": "[coughing]"
             }
           ]
         }
@@ -843,6 +843,10 @@
         {
           "tag": "Background Noise",
           "category": "Recording"
+        },
+        {
+          "tag": "Leslie Flint",
+          "category": "Speaker"
         }
       ],
       "uuid": "88b9afbc-866d-4b97-9b91-c17b2278f832"
