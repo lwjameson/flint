@@ -91,10 +91,26 @@
               ]
             },
             {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            },
+            {
               "type": "block-quote",
               "children": [
                 {
-                  "text": "But I do say this: any man or woman who sincerely seeks truth will find it. I know there will be some who will criticise when they listen to this. There will be some who will make excuses. There will be some that will say, \"Oh well, how do we know it is him?\" There will be some who will say, \"Oh, of course, you know he had a cleft mouth, and that does not sound like his voice.\" But if they are intelligent they will know damn well I don’t have a cleft mouth over here. "
+                  "text": "\"But I do say this: any man or woman who sincerely seeks truth will find it. I know there will be some who will criticise when they listen to this. There will be some who will make excuses. There will be some that will say, 'Oh well, how do we know it is him?' There will be some who will say, 'Oh, of course, you know he had a cleft mouth, and that does not sound like his voice.' But if they are intelligent they will know damn well I don’t have a cleft mouth over here.\""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
                 }
               ]
             },
@@ -257,6 +273,6 @@
   "slug": "rhetorics-of-science-and-the-body-or-the-w",
   "created_at": "2025-02-06T17:41:43.903Z",
   "created_by": "saamturner",
-  "updated_at": "2025-02-12T19:21:26.058Z",
+  "updated_at": "2025-02-12T19:26:08.424Z",
   "updated_by": "saamturner"
 }
