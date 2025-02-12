@@ -1880,6 +1880,22 @@
       ],
       "tags": [],
       "uuid": "d175c9aa-ce48-4ee8-a5f6-ae0a33aedc92"
+    },
+    {
+      "start_time": 120,
+      "end_time": 120,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audio distortion"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "08f3614b-0c80-4ed5-adb8-9de09e631fd4"
     }
   ],
   "set": "Default",
