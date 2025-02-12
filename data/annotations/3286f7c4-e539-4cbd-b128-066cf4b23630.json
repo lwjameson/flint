@@ -1678,6 +1678,10 @@
         {
           "tag": "Dormant",
           "category": "Topic"
+        },
+        {
+          "tag": "Truth",
+          "category": "Topic"
         }
       ],
       "uuid": "f496d5ef-deb3-448e-a0c5-2e7c2e5986ea"
