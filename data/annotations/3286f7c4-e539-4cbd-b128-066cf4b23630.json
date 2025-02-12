@@ -447,7 +447,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Traffic"
+              "text": "[ectoplasm]"
             }
           ]
         }
@@ -455,6 +455,10 @@
       "tags": [
         {
           "tag": "Background Noise",
+          "category": "Recording"
+        },
+        {
+          "tag": "Volume",
           "category": "Recording"
         }
       ],
