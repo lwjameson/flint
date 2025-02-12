@@ -1384,7 +1384,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "You know when I envisaged this subject, when I saw it for it’s true worth on your side, after I received the evidence and the comfort that was to be derived from it, I saw the immensity of it, the possibilities of it. I saw it as pause a great truth that would bring the whole of mankind together; that it would break down the barriers of creeds and dogmas and politics that have built over the centuries."
+              "text": "You know when I envisaged this subject, when I saw it for its true worth on your side, after I received the evidence and the comfort that was to be derived from it, I saw the immensity of it, the possibilities of it. I saw it as pause a great truth that would bring the whole of mankind together; that it would break down the barriers of creeds and dogmas and politics that have built over the centuries."
             }
           ]
         }
@@ -1393,6 +1393,14 @@
         {
           "tag": "Arthur Conan Doyle",
           "category": "Speaker"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        },
+        {
+          "tag": "Truth",
+          "category": "Topic"
         }
       ],
       "uuid": "9b3dc762-bd3d-4f02-a1ca-8c31732b3e7b"
