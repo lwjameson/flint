@@ -1864,6 +1864,22 @@
         }
       ],
       "uuid": "f29042ad-2aaf-4193-8150-c2c54b8961be"
+    },
+    {
+      "start_time": 111,
+      "end_time": 111,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Audio fades"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d175c9aa-ce48-4ee8-a5f6-ae0a33aedc92"
     }
   ],
   "set": "Default",
