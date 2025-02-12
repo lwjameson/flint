@@ -1624,6 +1624,10 @@
         {
           "tag": "Truth",
           "category": "Topic"
+        },
+        {
+          "tag": "Quoting",
+          "category": "Topic"
         }
       ],
       "uuid": "d0794350-0888-4100-a1a1-77633e1f7848"
