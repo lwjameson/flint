@@ -772,7 +772,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Coughing"
+              "text": "[coughing]"
             }
           ]
         }
@@ -781,6 +781,10 @@
         {
           "tag": "Coughing",
           "category": "Voice"
+        },
+        {
+          "tag": "Leslie Flint",
+          "category": "Speaker"
         }
       ],
       "uuid": "b6660abf-4c33-4d9c-bf56-b27b84387a57"
