@@ -784,6 +784,10 @@
         {
           "tag": "Background Noise",
           "category": "Recording"
+        },
+        {
+          "tag": "Voicebox",
+          "category": "Topic"
         }
       ],
       "uuid": "7203f87b-9712-4a45-be9d-3cd0746c6424"
