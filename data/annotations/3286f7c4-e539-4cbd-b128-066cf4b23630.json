@@ -1860,7 +1860,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Knock"
+              "text": "[ectoplasm]"
             }
           ]
         }
@@ -1869,6 +1869,10 @@
         {
           "tag": "Background Noise",
           "category": "Recording"
+        },
+        {
+          "tag": "Voicebox",
+          "category": "Topic"
         }
       ],
       "uuid": "2ec42029-bcd2-4028-8cc3-4fb4b9db4c40"
