@@ -1131,6 +1131,14 @@
         {
           "tag": "Pace",
           "category": "Voice"
+        },
+        {
+          "tag": "Truth",
+          "category": "Topic"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
         }
       ],
       "uuid": "52e34c52-43dd-449a-89d7-5706b0ed7fb3"
