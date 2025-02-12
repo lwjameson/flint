@@ -272,6 +272,10 @@
         {
           "tag": "Background Noise",
           "category": "Recording"
+        },
+        {
+          "tag": "Volume",
+          "category": "Recording"
         }
       ],
       "uuid": "d153aa2b-2400-4cc4-bd64-a63efa9671bc"
