@@ -22,9 +22,47 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Doyle on spiritual \"communication\" (above), Wilde on medium and seances (below)."
+          "text": "Doyle on spiritual \"communication\" (above)",
+          "bold": true
         }
       ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Wilde on medium and seances (below) ",
+          "bold": true
+        }
+      ],
+      "align": "right"
     },
     {
       "type": "paragraph",
@@ -64,7 +102,7 @@
   "created_at": "2025-01-16T03:04:48.391Z",
   "created_by": "saamturner",
   "title": "Clips for In-Class Listening",
-  "updated_at": "2025-02-12T20:12:19.037Z",
+  "updated_at": "2025-02-12T20:19:18.105Z",
   "updated_by": "saamturner",
   "autogenerate": {
     "enabled": false,
