@@ -1873,12 +1873,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Audio fades"
+              "text": "[audio fades]"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Volume",
+          "category": "Recording"
+        }
+      ],
       "uuid": "d175c9aa-ce48-4ee8-a5f6-ae0a33aedc92"
     },
     {
