@@ -1468,6 +1468,14 @@
         {
           "tag": "Arthur Conan Doyle",
           "category": "Speaker"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        },
+        {
+          "tag": "Dormant",
+          "category": "Topic"
         }
       ],
       "uuid": "3b107f0c-21c3-4d22-8715-4c9eabfe9501"
