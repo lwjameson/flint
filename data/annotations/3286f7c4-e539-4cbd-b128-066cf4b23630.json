@@ -1164,6 +1164,14 @@
         {
           "category": "Speaker",
           "tag": "Leslie Flint"
+        },
+        {
+          "tag": "Truth",
+          "category": "Topic"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
         }
       ],
       "uuid": "8b0b89b0-8823-499a-a092-c2e7661d9d7f"
