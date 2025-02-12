@@ -226,6 +226,10 @@
         {
           "tag": "Distortion",
           "category": "Recording"
+        },
+        {
+          "tag": "Pace",
+          "category": "Voice"
         }
       ],
       "uuid": "2c79a55a-4718-4dce-b1b6-4fc3fa6d7118"
