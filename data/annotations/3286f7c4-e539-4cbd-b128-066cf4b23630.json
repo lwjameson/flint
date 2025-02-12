@@ -142,7 +142,7 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Traffic"
+              "text": "[ectoplasm]"
             }
           ]
         }
@@ -151,6 +151,10 @@
         {
           "tag": "Background Noise",
           "category": "Recording"
+        },
+        {
+          "tag": "Voicebox",
+          "category": "Topic"
         }
       ],
       "uuid": "53a98d1d-24cc-4263-8b13-467cc7751906"
