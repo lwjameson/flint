@@ -481,6 +481,22 @@
         {
           "tag": "Arthur Conan Doyle",
           "category": "Speaker"
+        },
+        {
+          "tag": "Spiritualism",
+          "category": "Topic"
+        },
+        {
+          "tag": "Sherlock Holmes",
+          "category": "Topic"
+        },
+        {
+          "tag": "Truth",
+          "category": "Topic"
+        },
+        {
+          "tag": "Doubt",
+          "category": "Topic"
         }
       ],
       "uuid": "d1963a50-066b-4f55-966c-ccf0a58482ee"
