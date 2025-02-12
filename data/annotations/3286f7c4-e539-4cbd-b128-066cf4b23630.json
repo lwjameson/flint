@@ -685,6 +685,10 @@
         {
           "tag": "Coughing",
           "category": "Voice"
+        },
+        {
+          "tag": "Leslie Flint",
+          "category": "Speaker"
         }
       ],
       "uuid": "0ba98cc6-82a4-49c9-a642-2dc3c420713a"
