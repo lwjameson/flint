@@ -330,6 +330,10 @@
         {
           "tag": "Volume",
           "category": "Recording"
+        },
+        {
+          "tag": "Voicebox",
+          "category": "Topic"
         }
       ],
       "uuid": "c86f18b8-b9aa-4add-bfa5-b7cb82ecde07"
