@@ -1889,12 +1889,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Audio distortion"
+              "text": "[audio distortion]"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Distortion",
+          "category": "Recording"
+        }
+      ],
       "uuid": "08f3614b-0c80-4ed5-adb8-9de09e631fd4"
     }
   ],
