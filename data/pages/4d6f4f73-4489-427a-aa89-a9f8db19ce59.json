@@ -104,8 +104,7 @@
   "updated_at": "2025-03-04T21:11:50.823Z",
   "updated_by": "lwjameson",
   "autogenerate": {
-    "enabled": false,
-    "type": "home"
+    "enabled": false
   },
   "slug": "clips-for-in-class-listening",
   "parent": "051cd644-74db-4e53-a69b-16912525e5e2"
