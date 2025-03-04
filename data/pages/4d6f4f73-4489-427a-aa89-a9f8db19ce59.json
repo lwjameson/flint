@@ -1,1 +1,113 @@
-{"content":[{"type":"event","uuid":"339d3bd3-26c8-4008-92a3-50cd21f6e9d9","includes":["media","annotations","label","description"],"start":924,"end":1066,"file":"b403e685-4d55-43dd-854b-0033485f357a","children":[{"text":""}]},{"type":"paragraph","children":[{"text":"Doyle on spiritual \"communication\" (above)","bold":true}]},{"type":"paragraph","children":[{"bold":true,"text":""}]},{"type":"paragraph","children":[{"bold":true,"text":""}]},{"type":"paragraph","children":[{"bold":true,"text":""}]},{"type":"paragraph","children":[{"text":"Wilde on medium and seances (below) ","bold":true}],"align":"right"},{"type":"paragraph","children":[{"text":""}]},{"type":"event","uuid":"7feadec5-ea45-4bb4-b49e-52d442e35733","includes":["media","annotations","label","description"],"start":669,"end":741,"file":"57c1ae3a-8c72-4189-9bdb-2098208eed30","children":[{"text":""}]},{"type":"paragraph","children":[{"text":""}]}],"created_at":"2025-01-16T03:04:48.391Z","created_by":"saamturner","title":"Clips for In-Class Listening","updated_at":"2025-02-12T20:28:15.860Z","updated_by":"saamturner","autogenerate":{"enabled":false,"type":"home"},"slug":"clips-for-in-class-listening","parent":"051cd644-74db-4e53-a69b-16912525e5e2"}
+{
+  "content": [
+    {
+      "type": "event",
+      "uuid": "339d3bd3-26c8-4008-92a3-50cd21f6e9d9",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 924,
+      "end": 1066,
+      "file": "b403e685-4d55-43dd-854b-0033485f357a",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Doyle on spiritual \"communication\" (above)",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Wilde on medium and seances (below) ",
+          "bold": true
+        }
+      ],
+      "align": "right"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "7feadec5-ea45-4bb4-b49e-52d442e35733",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "start": 669,
+      "end": 741,
+      "file": "57c1ae3a-8c72-4189-9bdb-2098208eed30",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
+  "created_at": "2025-01-16T03:04:48.391Z",
+  "created_by": "saamturner",
+  "title": "Clips for In-Class Listening",
+  "updated_at": "2025-03-04T21:11:50.823Z",
+  "updated_by": "lwjameson",
+  "autogenerate": {
+    "enabled": false,
+    "type": "home"
+  },
+  "slug": "clips-for-in-class-listening",
+  "parent": "051cd644-74db-4e53-a69b-16912525e5e2"
+}
