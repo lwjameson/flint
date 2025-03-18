@@ -16,7 +16,13 @@
     "authors": "Sam Turner",
     "media_player": "avannotate",
     "auto_populate_home_page": true,
-    "additional_users": [],
+    "additional_users": [
+      {
+        "login_name": "SteveMarvin",
+        "avatar_url": "https://avatars.githubusercontent.com/u/18423533?v=4",
+        "admin": false
+      }
+    ],
     "tags": {
       "tagGroups": [
         {
@@ -132,7 +138,7 @@
       ]
     },
     "created_at": "2025-01-16T03:04:48.369Z",
-    "updated_at": "2025-03-05T20:53:47.221Z",
+    "updated_at": "2025-03-18T17:33:08.404Z",
     "generate_pages_site": true
   },
   "is_private": false
