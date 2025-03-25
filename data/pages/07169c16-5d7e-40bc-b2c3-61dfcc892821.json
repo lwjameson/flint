@@ -4,11 +4,12 @@
   "created_by": "saamturner",
   "title": "Oscar Wilde Communicates",
   "slug": "oscar-wilde-communicates",
-  "updated_at": "2025-03-25T17:16:49.035Z",
+  "updated_at": "2025-03-25T17:16:58.049Z",
   "updated_by": "lwjameson",
   "autogenerate": {
     "enabled": true,
     "type": "event",
     "type_id": "7feadec5-ea45-4bb4-b49e-52d442e35733"
-  }
+  },
+  "parent": "91145acb-944b-4c5f-b0ce-115bafc62a2e"
 }
