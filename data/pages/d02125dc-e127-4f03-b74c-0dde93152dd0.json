@@ -1,1 +1,15 @@
-{"content":[],"created_at":"2025-01-16T03:12:59.489Z","created_by":"saamturner","title":"Arthur Conan Doyle Communicates","slug":"arthur-conan-doyle-communicates","updated_at":"2025-01-16T03:12:59.489Z","updated_by":"saamturner","parent":"051cd644-74db-4e53-a69b-16912525e5e2","autogenerate":{"enabled":true,"type":"event","type_id":"339d3bd3-26c8-4008-92a3-50cd21f6e9d9"}}
+{
+  "content": [],
+  "created_at": "2025-01-16T03:12:59.489Z",
+  "created_by": "saamturner",
+  "title": "Arthur Conan Doyle Communicates",
+  "slug": "arthur-conan-doyle-communicates",
+  "updated_at": "2025-03-27T17:06:43.942Z",
+  "updated_by": "lwjameson",
+  "parent": "a598a707-495d-4f12-a5ab-12df9cf2548e",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "339d3bd3-26c8-4008-92a3-50cd21f6e9d9"
+  }
+}
